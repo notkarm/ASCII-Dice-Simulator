@@ -12,7 +12,9 @@
 ░╚═══██╗██║██║╚██╔╝██║██║░░░██║██║░░░░░██╔══██║░░░██║░░░██║░░██║██╔══██╗
 ██████╔╝██║██║░╚═╝░██║╚██████╔╝███████╗██║░░██║░░░██║░░░╚█████╔╝██║░░██║
 ╚═════╝░╚═╝╚═╝░░░░░╚═╝░╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝
-                                                                                                                                                                    There isn't much to this project, all it does is use the 'random' python module and outputs a number between 1 and 6 and prints an ASCII Dice based on the output provided by the random module
+
+
+There isn't much to this project, all it does is use the 'random' python module and outputs a number between 1 and 6 and prints an ASCII Dice based on the output provided by the random module
                                                                                                                                                                     
 Instructions to run it:
  1) Simply download the python file named "Dice.py"
